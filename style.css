@@ -1,0 +1,30 @@
+body {
+    height: 100vh;
+    background-color: bisque;
+}
+
+.content {
+    height: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction: column;
+}
+
+.button {
+    background-color: rgb(255, 255, 255);
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.site {
+    background-color: rgb(255, 255, 255);
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
